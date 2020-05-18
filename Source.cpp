@@ -249,5 +249,5 @@ int main()
     trabs_matrix.mathexp();
     trabs_matrix.finding_mode();
 
-	return 0;
+    return 0;
 }
